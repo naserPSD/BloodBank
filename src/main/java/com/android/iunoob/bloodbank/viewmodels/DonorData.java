@@ -2,9 +2,9 @@ package com.android.iunoob.bloodbank.viewmodels;
 
 /***
  Project Name: BloodBank
- Project Date: 10/17/18
- Created by: imshakil
- Email: mhshakil_ice_iu@yahoo.com
+ Project Date: 10/11/2022
+ Created by: Md Naser Bin Hossain & Reajus Salehin
+ Email: naser.hossain@northsouth.edu & reajus.shyon@northsouth.edu
  ***/
 
 public class DonorData {
