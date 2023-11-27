@@ -7,6 +7,7 @@ package com.android.iunoob.bloodbank.viewmodels;
  Email: naser.hossain@northsouth.edu & reajus.shyon@northsouth.edu
  ***/
 
+
 public class DonorData {
 
     private int TotalDonate;
