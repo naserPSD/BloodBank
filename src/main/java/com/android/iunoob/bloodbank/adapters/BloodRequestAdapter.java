@@ -17,7 +17,7 @@ import java.util.List;
  Project Name: BloodBank
  Project Date: 10/11/2022
  Created by: Md Naser Bin Hossain & Reajus Salehin
- Email: naser.hossain@northsouth.edu
+ Email: naser.hossain@northsouth.edu & reajus.shyon@northsouth.edu
  ***/
 
 public class BloodRequestAdapter extends RecyclerView.Adapter<BloodRequestAdapter.PostHolder> {
